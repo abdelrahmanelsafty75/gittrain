@@ -1,1 +1,2 @@
-First Line In File2.txt :)
+First Line In File2.txt  :)
+Second Line In File2.txt :(
