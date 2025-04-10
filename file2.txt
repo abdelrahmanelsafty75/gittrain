@@ -1,3 +1,4 @@
-First Line In File2.txt  :)
-Second Line In File2.txt :(
+First Line In File2.txt  
+Second Line In File2.txt 
 this is the Third line 
+this commit after cloning :)
